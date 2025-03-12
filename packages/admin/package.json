@@ -25,7 +25,7 @@
     "@baseline/types": "workspace:1.0.0",
     "@vitejs/plugin-react": "4.3.3",
     "aws-amplify": "6.6.6",
-    "axios": "1.7.7",
+    "axios": "1.8.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-helmet": "6.1.0",
